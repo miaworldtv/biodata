@@ -1,19 +1,1 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>My Profile</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
-</head>
-
-<body>
-<div id="home">
-    <h1>MIA</h1>
-  </div>
-  <div id="about">
-    <h2>ABOUT ME</h2>
-    <img src="WhatsApp Image 2023-01-16 at 7.36.43 PM.jpeg" height="400px" width="400px"/>
-    <p>My name is Mia, i am currently 12 years old and in Seventh grade. My favorite color is purple. I really like drawing and sometimes singing/humming. My fav foods are ramen, sushi, steak, and instant noodles just to name a few. During my freetime i sometimes like to play games like roblox, minecraft, genshin impact, and bandori.
-</p></div>
